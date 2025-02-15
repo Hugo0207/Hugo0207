@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Hugo Girard**. I am a **computer science** student at INSA Toulouse <img src="drawing.jpg" alt="drawing" width="200"/> and UQAC (University of Québec at Chicoutimi). I have learned a lot of things on general and computer science. I am currently learning how to develop video games. My goal is to work in the video game industry.
+My name is **Hugo Girard**. I am a **computer science** student at 🔴`INSA Toulouse` and 🟢`UQAC (University of Québec at Chicoutimi)`. I have learned a lot of things on general and computer science. I am currently learning how to develop video games. My goal is to work in the video game industry.
 
 On this GitHub, you will find some of my school, internship, and personal projects. It contains repositories I could publish. You can also take a look at my [portfolio](https://docs.google.com/presentation/d/1BLtP6_qJBmr4rmVorAyjp8R1K5jumeKWL2_OhEfx4dg/edit#slide=id.g31927e2f45a_0_25) for a general presentation of my projects.
 
@@ -10,24 +10,24 @@ On this GitHub, you will find some of my school, internship, and personal projec
   <ul>
     <li><strong>Licence 1:</strong></li>
     <ul>
-      <li>Core Curriculum: general science and engineering courses - INSA Toulouse (STPI)</li>
+      <li>Core Curriculum: general science and engineering courses - 🔴<code>Département des Sciences et Technologies Pour l'Ingénieur (STPI)</code></li>
     </ul>
     <li><strong>Licence 2:</strong></li>
     <ul>
-      <li>Modeling, Computer Science, and Communication 1 - INSA Toulouse (STPI)</li>
+      <li>Modeling, Computer Science, and Communication 1 - 🔴<code>Département des Sciences et Technologies Pour l'Ingénieur (STPI)</code></li>
     </ul>
     <li><strong>Licence 3:</strong></li>
     <ul>
-      <li>Modeling, Computer Science, and Communication 2 - INSA Toulouse (Department of Computer and Electrical Engineering)</li>
+      <li>Modeling, Computer Science, and Communication 2 - 🔴<code>Département de Génie Électrique et Informatique (GEI)</code></li>
     </ul>
     <li><strong>Master 1:</strong></li>
     <ul>
-      <li>Computer Science and Networks 1 - INSA Toulouse (Department of Computer and Electrical Engineering)</li>
+      <li>Computer Science and Networks 1 - 🔴<code>Département de Génie Électrique et Informatique (GEI)</code></li>
     </ul>
     <li><strong>Master 2:</strong></li>
     <ul>
-      <li>Computer Science and Networks 2 - INSA Toulouse (Department of Computer and Electrical Engineering)</li>
-      <li>Master's degree in computer science (video games) - UQAC (Department of Computer Science and Mathematics)</li>
+      <li>Computer Science and Networks 2 - 🔴<code>Département de Génie Électrique et Informatique (GEI)</code></li>
+      <li>Maîtrise en informatique (jeux vidéo) - 🟢<code>Département d'informatique et de mathématique (DIM)</code></li>
     </ul>
   </ul>
 </br>
