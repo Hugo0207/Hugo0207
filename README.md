@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is **Hugo Girard**. I am a Computer Science student at INSA Toulouse and University of Québec at Chicoutimi. I have learned a lot of things on general and computer science. I am currently learning how to develop video games :video_game: My goal is to work in the video game industry.
+My name is **Hugo Girard**. I am a **computer science** student at INSA Toulouse and University of Québec at Chicoutimi. I have learned a lot of things on general and computer science. I am currently learning how to develop video games :video_game: My goal is to work in the video game industry.
 
 On this GitHub, you will find some of my school, internship, and personal projects. It contains the repositories I could publish.
 
