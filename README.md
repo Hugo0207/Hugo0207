@@ -31,7 +31,7 @@ On this GitHub, you will find some of my school, internship, and personal projec
     </ul>
   </ul>
 </br>
-<li>:video_game: Video game related projects:</li>
+<li>:video_game: My best video game related projects:</li>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=cNyinUshwEQ">PewPewTime - UQAC school project - Unreal Engine</a></li>
     <li><a href="https://docs.google.com/presentation/d/1BLtP6_qJBmr4rmVorAyjp8R1K5jumeKWL2_OhEfx4dg/edit?usp=sharing">CURV - CNES internship project - React/ThreeJS</a></li>
