@@ -34,9 +34,9 @@ On this GitHub, you will find some of my school, internship, and personal projec
 <li>:video_game: My best video game related projects:</li>
   <ul>
     <li><a href="https://www.youtube.com/watch?v=cNyinUshwEQ">PewPewTime - UQAC school project - Unreal Engine</a></li>
+    <li><a href="https://www.youtube.com/watch?v=dqcI8TMvwTI">Randonnade - UQAC school project - Unreal Engine</a></li>
     <li><a href="https://docs.google.com/presentation/d/1BLtP6_qJBmr4rmVorAyjp8R1K5jumeKWL2_OhEfx4dg/edit?usp=sharing">CURV - CNES internship project - React/ThreeJS</a></li>
-    <li><a href="https://nypsyy.itch.io/beanight">BEANIGHT - Jame Gam #29 - Unity</a></li>
-    <li><a href="https://heavenozaur.itch.io/laisse-moi-jouer-mon-jeu">Laisse moi jouer à mon jeu ! - WonderJam Fall 2024 - Unreal Engine</a></li>
+    <li><a href="https://leyvaten.itch.io/blidheimhol">Blidheimhol - DevsThaJam#17 - Godot</a></li>
   </ul>
 </ul>
 
