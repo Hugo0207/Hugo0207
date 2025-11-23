@@ -37,6 +37,7 @@ On this GitHub, you will find some of my school, internship, and personal projec
     <li><a href="https://www.youtube.com/watch?v=dqcI8TMvwTI">Randonnade - UQAC school project - Unreal Engine</a></li>
     <li><a href="https://docs.google.com/presentation/d/1BLtP6_qJBmr4rmVorAyjp8R1K5jumeKWL2_OhEfx4dg/edit?usp=sharing">CURV - CNES internship project - React/ThreeJS</a></li>
     <li><a href="https://leyvaten.itch.io/blidheimhol">Blidheimhol - DevsThaJam#17 - Godot</a></li>
+    <li><a href="https://github.com/AlbinHorlaville/network-engine">Network game engine - UQAC school project - C++/C#</a></li>
   </ul>
 </ul>
 
